@@ -2,10 +2,6 @@
 target/
 *.class
 
-# Node / Frontend
-node_modules/
-dist/
-
 # Log files
 logs/
 *.log
